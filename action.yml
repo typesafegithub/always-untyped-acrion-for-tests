@@ -1,0 +1,5 @@
+name: 'Always untyped action for tests'
+description: 'Used to test a feature of bindings server'
+inputs:
+  foobar:
+    description: 'some input'
